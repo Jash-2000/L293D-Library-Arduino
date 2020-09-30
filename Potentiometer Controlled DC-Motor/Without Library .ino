@@ -4,7 +4,7 @@
 */
 
 /*
-	Control logic for DC motors using LM293D, pots and button switch based interrupts.
+	Control logic for DC motors using L293D, pots and button switch based emergency Stop interrupts.
 */
 
 // Connections for motor 1
