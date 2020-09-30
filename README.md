@@ -5,9 +5,9 @@ Directly Download the entire directory and follow the following steps to use the
 
 
 The connection diagram, corresponding to my Library is as follows: 
-![Open Connection Schematic Folder](https://github.com/Jash-2000/L293D-Motor-Controller-Library/blob/master/Connection%20Schematic/Schematic.JPG)
+![Open Connection Schematic Folder](https://github.com/Jash-2000/L293D-Library-Arduino/blob/master/Connection%20Schematic/Schematic.JPG)
 
-I have added detailed explaination of all the connections in "Connection Schematic" folder in this repository( https://github.com/Jash-2000/L293D-Motor-Controller-Library/tree/master/Connection%20Schematic ) 
+I have added detailed explaination of all the connections in "Connection Schematic" folder in this repository( https://github.com/Jash-2000/L293D-Library-Arduino/tree/master/Connection%20Schematic ).
 
 ## About L293D 
 ---------------------
@@ -19,5 +19,5 @@ Explaination of H-Bridge -
 The pinouts diagram of the IC is as follows: 
 
 
-Detailed explaination of the same is provided in the Folder "Pinout" (https://github.com/Jash-2000/L293D-Motor-Controller-Library/tree/master/Pinout)  
+Detailed explaination of the same is provided in the Folder "Pinout" (https://github.com/Jash-2000/L293D-Library-Arduino/tree/master/Pinout)  
 
