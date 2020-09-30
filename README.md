@@ -5,9 +5,8 @@ Directly Download the entire directory and follow the following steps to use the
 
 
 The connection diagram, corresponding to my Library is as follows: 
-![https://github.com/Jash-2000/LM293D-Motor-Controller-Library/tree/master/Connection%20Schematic
-](https://github.com/Jash-2000/LM293D-Motor-Controller-Library/tree/master/Connection%20Schematic
-/)
+![Open Connection Schematic Folder](hhttps://github.com/Jash-2000/LM293D-Motor-Controller-Library/blob/master/Connection%20Schematic/Schematic.JPG)
+
 ## About LM293D/L293D 
 ---------------------
 LM293D is dual, H-bridge Motor Controller IC. 
