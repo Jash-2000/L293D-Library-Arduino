@@ -1,4 +1,4 @@
-##Project Description
+Project Description
 ---------------------
 
 The project was aimed to create Regulator(Potentiometer) controlled dual DC motor circuitary, and Limit the speed to 3000 rpm.
