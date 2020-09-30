@@ -4,7 +4,8 @@
 Directly clone the entire directory and follow the following steps to use the *Header file* in your Arduino Sketch:
 
 
-For the ease of understanding, I have added a project that I did with and without using my library. It is present in " Potentiometer Controlled DC-Motor" (https://github.com/Jash-2000/L293D-Library-Arduino/tree/master/Potentiometer%20Controlled%20DC-Motor).
+For the ease of understanding, I have added a project that I did with and without using my library.  
+It is present in " Potentiometer Controlled DC-Motor" (https://github.com/Jash-2000/L293D-Library-Arduino/tree/master/Potentiometer%20Controlled%20DC-Motor).
 
 The connection diagram, corresponding to my Library is as follows: 
 
