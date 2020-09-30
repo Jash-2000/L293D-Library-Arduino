@@ -4,7 +4,7 @@
 Directly Download the entire directory and follow the following steps to use the Header file in your Arduino Sketch:
 
 
-The connection diagram, corresponding to my Library is present here:  
+The connection diagram, corresponding to my Library is present in "Connection Schematic" folder, or click here: https://github.com/Jash-2000/LM293D-Motor-Controller-Library/tree/master/Connection%20Schematic
 
 ## About LM293D/L293D 
 ---------------------
