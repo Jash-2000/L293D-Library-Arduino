@@ -15,8 +15,8 @@ I have added detailed explaination of all the connections in "Connection Schemat
 
 ## About L293D 
 ---------------------
-L293D is dual, H-bridge Motor Controller IC. 
-
+L293D is low power low voltage dual, H-bridge Motor Controller IC. 
+< For High Power outputs lookout for L298 IC >
 It can be used to control the SPEED and DIRECTION of 2 DC based motors simultaneously.
 
 **Explaination of H-Bridge :**
